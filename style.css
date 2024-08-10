@@ -1,0 +1,42 @@
+
+/* Estilo fuente */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+        background-color: #8a9cb6;
+}
+
+/* Encabezado */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000000;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Logotipo */
+.logo img {
+    max-width: 66px; 
+    background-color: #ffffff;
+    border-radius: 50%;
+    
+}
+
+/* Dropdown de búsqueda */
+
+
+/* Elementos header */
+.server-info {
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+.row{
+    
+}
+
